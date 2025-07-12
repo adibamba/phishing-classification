@@ -65,14 +65,12 @@ Key features include:
 | Precision     | *e.g., 91%* |
 | Recall        | *e.g., 93%* |
 
-_(Replace with your actual values after training!)_
+## 📷 Key Visualizations
 
----
+### 🎯 Target Variable Distribution
 
-## ▶️ How to Run
+![Target Distribution](images/target_distribution.png)
 
-1. Clone the repo:
+### 🌳 Decision Tree Visualization
 
-```bash
-git clone https://github.com/yourusername/phishing-website-classification.git
-cd phishing-website-classification
+![Decision Tree](images/decision_tree.png)
