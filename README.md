@@ -61,9 +61,9 @@ Key features include:
 
 | Metric        | Value     |
 |---------------|-----------|
-| Accuracy      | *e.g., 92%* |
-| Precision     | *e.g., 91%* |
-| Recall        | *e.g., 93%* |
+| Accuracy      | *88%* |
+| Precision     | *90%* |
+| Recall        | *91%* |
 
 ## 📷 Key Visualizations
 
